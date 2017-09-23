@@ -1,0 +1,21 @@
+GIT
+  remote: https://github.com/cranieri/meetup_client
+  revision: fa2dc47a9e290da88b723a623715268748d3473f
+  branch: master
+  specs:
+    meetup_client (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv
+  meetup_client!
+
+BUNDLED WITH
+   1.16.0.pre.2
